@@ -194,7 +194,7 @@ var Github = React.createClass({
 		return (
 			<div className="github-fork-ribbon-wrapper right-bottom">
 	        <div className="github-fork-ribbon">
-	            <a href="https://github.com/simonwhitaker/github-fork-ribbon-css">Fork me on GitHub</a>
+	            <a href="https://github.com/agodin3z/react-to-do">Fork me on GitHub</a>
 	        </div>
 	    </div>
 		);
